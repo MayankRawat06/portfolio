@@ -1,2 +1,2 @@
 # portfolio
-A portfolio website using HTML and CSS.
+A portfolio website built using HTML and CSS.
